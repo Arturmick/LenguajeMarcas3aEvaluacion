@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<heladeria 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="E3_helados2.xsd">
+
+<helado>
+  <fresa>300</fresa>
+  <chocolate>250</chocolate>
+</helado>
+
+<helado>
+  <vainilla>200</vainilla>
+  <chocolate>225</chocolate>
+</helado>
+</heladeria>
